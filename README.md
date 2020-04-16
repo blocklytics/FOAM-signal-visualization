@@ -20,7 +20,7 @@ Signals radii: **1km --> 5km --> 25km**
 #### Ushuaia - 54.8°S
 <img src="media/output/testing_images/-54.8_Ushuaia_1.png" width=250 /> <img src="media/output/testing_images/-54.8_Ushuaia_5.png" width=250 /> <img src="media/output/testing_images/-54.8_Ushuaia_25.png" width=250 />
 #### Quito - 0.1°S
-<img src="media/output/testing_images/-0.1_Quito_1.png" width=250 /> <img src="media/output/testing_images/-0.1_Quito_16.png" width=250 /> <img src="media/output/testing_images/-0.1_Quito_25.png" width=250 />
+<img src="media/output/testing_images/-0.1_Quito_1.png" width=250 /> <img src="media/output/testing_images/-0.1_Quito_5.png" width=250 /> <img src="media/output/testing_images/-0.1_Quito_25.png" width=250 />
 #### New York - 40.7°N
 <img src="media/output/testing_images/40.7_New York_1.png" width=250 /> <img src="media/output/testing_images/40.7_New York_5.png" width=250 /> <img src="media/output/testing_images/40.7_New York_25.png" width=250 />
 #### Longyearby - 78.2°N
