@@ -1,6 +1,6 @@
 """
-Functions connecting the whole process. 'main' should be run if signal visualization of certain signal is requested.
-'main_custom' should be run if signal visualization of any point on Earth is requested.
+Functions connecting the whole process. 'visual_from_signal' should be run if signal visualization of certain signal is requested.
+'visual_from_data' should be run if signal visualization of any point on Earth is requested.
 Miha Lotric, April 2020
 """
 
