@@ -27,8 +27,8 @@ places = {"Quito": (-0.140287, -78.478916),
 for name, coordinates in places.items():
     for i in (1, 5, 25):
         file_name = f"output/testing_images/{coordinates[0]:.1f}_{name}_{i}.png"
-        main_custom(file_name, coordinates, 1000*i, save=1, show=0)
+        visual_from_data(coordinates, 1000*i, save_as=file_name)
     print(name + " done")
 
-# Uncomment to run for a single city
-# ("output/testing_images/random_signal.png", places['Aberdeen'], 15000, save=0, show=1)
+# Uncomment to run for a single point
+# visual_from_data((46.048526, 14.525562), 15000, show=1)
