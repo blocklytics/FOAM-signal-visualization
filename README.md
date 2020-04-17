@@ -80,3 +80,5 @@ $ python main.py 223 --show
 User can provide its own parameters instead of calling a signal. 
 In `visualizer.py` there is a function `visual_from_data` which takes coordinates and radius as parameters. 
 Look at `run_examples.py` for some examples.
+
+   Polar explorers note! Mapbox only allows latitude **<= 85°N** and >= **85°S**.
