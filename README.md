@@ -6,9 +6,7 @@ The package enables user to request a FOAM signal visualization by providing its
  * beacon showing location of the signal 
  * and a dome representing range of the signal.
 
-Map images © [Mapbox](https://www.mapbox.com/about/maps/) © [OpenStreetMap](https://www.openstreetmap.org/copyright)
 
-Beacon visuals © [Macrovector](https://www.freepik.com/macrovector)
 
 ### Visualization of signal #223
 <img src="media/output/signals/223.png" width=500 />
@@ -82,3 +80,10 @@ In `visualizer.py` there is a function `visual_from_data` which takes coordinate
 Look at `run_examples.py` for some examples.
 
    Polar explorers note! Mapbox only allows latitude **<= 85°N** and >= **85°S**.
+# Credits
+Map images © [Mapbox](https://www.mapbox.com/about/maps/) © [OpenStreetMap](https://www.openstreetmap.org/copyright)
+
+Beacon visuals © [Macrovector](https://www.freepik.com/macrovector)
+   
+# Contact
+You can contact me via mail on **miha@blocklytics.org**
