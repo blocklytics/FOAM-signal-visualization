@@ -1,5 +1,5 @@
 web3==5.5.0
 geohash2==1.1.0
 requests==2.23.0
-Pillow==7.1.1
+Pillow==9.3.0
 python-dotenv==0.12.0
